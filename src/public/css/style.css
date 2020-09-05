@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body, 
+html{
+    width: 100%;
+    height: 100%;
+}
+#drawing {    
+    border: 2px solid #000;
+    width: 60%;
+    height: 700px;
+    margin-left: 50px;
+    background-color: green;
+}
+#contenedor{    
+    text-align: center;
+}
+h1, h2, h4{
+    text-align: center;
+}
+
